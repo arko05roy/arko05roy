@@ -9,7 +9,7 @@
 # 🏆 Hackathon Wins & Achievements
 
 🥇 Bounty Winner — ETHGlobal New Delhi (2000+ participants)  
-🥇 Winner — Vibeathon 2k26 
+🥇 Winner — Vibeathon 2k26 (100+ participants)
 🥇 Winner — Build on CELO Kolkata Hackathon (100+ teams)  
 🥇 Winner — Avalanche Team1 Hackathon Kolkata (100+ teams)  
 🥇 Winner — Hack Heritage 2024 (1000+ participants)  
