@@ -8,6 +8,7 @@
 
 # 🏆 Hackathon Wins & Achievements
 
+🥇 Winner — Payments Track Solana Frontier (4000+ participants)
 🥇 Bounty Winner — ETHGlobal New Delhi (2000+ participants)  
 🥇 Winner — Vibeathon 2k26 (100+ participants)
 🥇 Winner — Build on CELO Kolkata Hackathon (100+ teams)  
