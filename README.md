@@ -8,16 +8,16 @@
 
 # 🏆 Hackathon Wins & Achievements
 
--🥇 Winner — Payments Track Solana Frontier (4000+ participants)
--🥇 Winner — Stellar Builder Residency Jaipur
--🥇 Bounty Winner — ETHGlobal New Delhi (2000+ participants)  
--🥇 Winner — Vibeathon 2k26 (100+ participants)
--🥇 Winner — Build on CELO Kolkata Hackathon (100+ teams)  
--🥇 Winner — Avalanche Team1 Hackathon Kolkata (100+ teams)  
--🥇 Winner — Hack Heritage 2024 (1000+ participants)  
--🥈 Second Place — East India Blockchain Summit 2025 @ IIT Kharagpur  
--🥉 Third Place — Edu-Chain Regional Hackathon @ Techno Main Salt Lake  
--🏅 Fourth Place — Build on Stellar Kolkata Hackathon  
+🥇 Winner — Payments Track Solana Frontier (4000+ participants)
+🥇 Winner — Stellar Builder Residency Jaipur
+🥇 Bounty Winner — ETHGlobal New Delhi (2000+ participants)  
+🥇 Winner — Vibeathon 2k26 (100+ participants)
+🥇 Winner — Build on CELO Kolkata Hackathon (100+ teams)  
+🥇 Winner — Avalanche Team1 Hackathon Kolkata (100+ teams)  
+🥇 Winner — Hack Heritage 2024 (1000+ participants)  
+🥈 Second Place — East India Blockchain Summit 2025 @ IIT Kharagpur  
+🥉 Third Place — Edu-Chain Regional Hackathon @ Techno Main Salt Lake  
+🏅 Fourth Place — Build on Stellar Kolkata Hackathon  
 
 
 ---
